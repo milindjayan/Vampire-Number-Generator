@@ -14,7 +14,7 @@ Vampire numbers are composite natural numbers having even number of digits that 
 3. The 8 workers would divide the work equally from the input range. The size of the       work unit in our case would be the total input range divided into chunks which          depend on the number of cores in the system
 
 4. Result of running the command mix run vampirelast.exs 100000 200000 is below
-190260 210 906
+190260 210 906 \n
 192150 210 915
 193257 327 591
 193945 395 491

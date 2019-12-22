@@ -1,4 +1,4 @@
-<pre>
+
 # Vampirelast
 
 Objective of the project is to use Elixir with the actor model to print the vampire numbers and its fangs within the provided range as input.
@@ -103,4 +103,4 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/vampirelast](https://hexdocs.pm/vampirelast).
-</pre>
+

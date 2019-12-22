@@ -1,3 +1,4 @@
+<pre>
 # Vampirelast
 
 Objective of the project is to use Elixir with the actor model to print the vampire numbers and its fangs within the provided range as input.
@@ -14,7 +15,7 @@ Vampire numbers are composite natural numbers having even number of digits that 
 3. The 8 workers would divide the work equally from the input range. The size of the       work unit in our case would be the total input range divided into chunks which          depend on the number of cores in the system
 
 4. Result of running the command mix run vampirelast.exs 100000 200000 is below
-190260 210 906 \n
+190260 210 906 
 192150 210 915
 193257 327 591
 193945 395 491
@@ -102,4 +103,4 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/vampirelast](https://hexdocs.pm/vampirelast).
-
+</pre>
